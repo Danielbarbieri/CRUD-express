@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "iago",
+        "email": "iago@dh.com",
+        "senha": "123456"
+    },
+    {
+        "nome": "iago2",
+        "email": "iago2@dh.com",
+        "senha": "$2b$11$LNtz8rDWHF/Cb.uXMC/Xm.QdY8rbphmhFacCPzRUtBrLzvBUBFRLe"
+    },
+    {
+        "nome": "iago4",
+        "email": "iago4@dh.com",
+        "senha": "$2b$11$xJSbb9kGFZiI9/tEitIdvuZQ9jKtlPZLN6l6dgg5jyXIApPwkeYXO"
+    },
+    {
+        "nome": "Daniel Barbieri de Faria",
+        "email": "josepereiravencedor@gmail.com",
+        "senha": "$2b$11$pEX7AmUyFUG9R/3ufmDNF.2AP4PBk4kiufoQNEXU1OZXl2gqPEuGy"
+    },
+    {
+        "nome": "Daniel Barbieri de Faria",
+        "email": "josepereiravencedor@gmail.com",
+        "senha": "$2b$11$6Q3pxHiqElSGUPU.C438yeBZ9nuO74nsM7C9p9qf8hF9TJ.RHwKJK"
+    },
+    {
+        "nome": "Getulio",
+        "email": "samir@unicast.tech",
+        "senha": "$2b$11$834dH3JwVlFfvbP/GzNU0OcVEXDIzClz1XhEnnQ40wyLY1E3.IKg."
+    },
+    {
+        "nome": "Getulio",
+        "email": "samir@unicast.tech",
+        "senha": "$2b$11$IjwyTn8g8HUDd.rvq45PfuIayJfmyMtIMSEeQcHkTLy2KBbsp.Ae."
+    }
+]
